@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">个人页面</string>
+    <string name="APPTAG">快捷查询APP</string>
+    <string name="phone_number">18246093846</string>
+    <string name="app_author">zht(Geek)</string>
+    <string name="OKTime">16.3.13</string>
+   　<string name="app_version">1.0</string>
+    <string name="MainActivity_Content">公告：\n app包含的功能有：\n      1.查询选课   2.查询成绩   3.查询课表   4.cet报名（未完善）\n更多功能敬请期待！！\n\n\n             如果大家有什么宝贵的意见请发送至邮箱perryre@163.com，切记哦！！
+    </string>
+</resources>
